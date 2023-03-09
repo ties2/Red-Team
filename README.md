@@ -1,4 +1,13 @@
-RedTeam
+**RedTeam**
+
+**List of Wiki topics:**
+
+[Types of CyberSecurity Attacks](https://github.com/ties2/Red-Team/wiki/Types-of-CyberSecurity-Attacks)
+[List of useful website for Red Team](https://github.com/ties2/Red-Team/wiki/List-of-useful-website-for-Red-Team)
+
+
+
+
 For becoming Red Teamer
 Introduction
 1.	Gain a solid understanding of computer science and cybersecurity fundamentals
@@ -23,8 +32,7 @@ Some skills for red team:
 - Training and Debriefing
 - Social Engineering
  
-List of Wiki topics:
-
-[Types of CyberSecurity Attacks](https://github.com/ties2/Red-Team/wiki/Types-of-CyberSecurity-Attacks)
+ 
+ 
 
 
