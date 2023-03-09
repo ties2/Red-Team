@@ -23,41 +23,6 @@ Some skills for red team:
 •	Training and Debriefing
 •	Social Engineering
  
-cybersecurity-attack
-all info about cybersecurity attack
-types of CyberSecurity Attacks
-types of CyberSecurity Attacks
-SQL injection
-XSS
-Clickjacking
-DOM-based
-CORS
-XXE
-SSRF
-Request smuggling
-command injection
-server-side template injection
-insecure deserialization
-Directory traversal
-Access control
-Authentication
-OAuth authentication
-Business logic vulnerabilities
-Web cache poisoning
-HTTP Host header attacks
-WebSockets
-Information disclosure
-File upload vulnerabilities
-JWT attacks
-Phishing Attack
-Man in the Middle Attacks
-SQL Injection Threat
-Distributed Denial of Service
-Drive by Attack
-Cross Site Scripting
-Password Attack
-Ransomware Attack
-Eavesdropping Attack
-AI-powered Attack
-Malware
-Zero-day exploit Advanced Persistent Threats
+ 
+
+
