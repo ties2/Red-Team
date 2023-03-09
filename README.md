@@ -9,20 +9,22 @@ Introduction
 6.	Finally, seek out opportunities to work with experienced red teamers through internships, part-time jobs, or consulting engagements.
  
 Some skills for red team:
-•	Development
-•	Infrastructure
-•	vulnerability Research
-•	threat Intelligence
-•	Reverse Engineering
-•	Detection and Response
-•	Technical Writing
-•	Networks and systems
-•	Offensive Mindset
-•	Penetration Testing
-•	Physical Security
-•	Training and Debriefing
-•	Social Engineering
+- Development
+- Infrastructure
+- vulnerability Research
+- threat Intelligence
+- Reverse Engineering
+- Detection and Response
+- Technical Writing
+- Networks and systems
+- Offensive Mindset
+- Penetration Testing
+- Physical Security
+- Training and Debriefing
+- Social Engineering
  
- 
+List of Wiki topics:
+
+[Types of CyberSecurity Attacks](https://github.com/ties2/Red-Team/wiki/Types-of-CyberSecurity-Attacks)
 
 
