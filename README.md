@@ -2,10 +2,10 @@
 
 **List of Wiki topics:**
 
-[Types of CyberSecurity Attacks](https://github.com/ties2/Red-Team/wiki/Types-of-CyberSecurity-Attacks)
-[List of useful website for Red Team](https://github.com/ties2/Red-Team/wiki/List-of-useful-website-for-Red-Team)
-[Become red teamer!](https://github.com/ties2/Red-Team/wiki/Become-red-teamer!)
-[Red Team Topics](https://github.com/ties2/Red-Team/wiki)
+- [Types of CyberSecurity Attacks](https://github.com/ties2/Red-Team/wiki/Types-of-CyberSecurity-Attacks)
+- [List of useful website for Red Team](https://github.com/ties2/Red-Team/wiki/List-of-useful-website-for-Red-Team)
+- [Become red teamer!](https://github.com/ties2/Red-Team/wiki/Become-red-teamer!)
+- [Red Team Topics](https://github.com/ties2/Red-Team/wiki)
 
 
 For becoming Red Teamer
