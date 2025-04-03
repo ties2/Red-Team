@@ -6,6 +6,7 @@
 - [List of useful website for Red Team](https://github.com/ties2/Red-Team/wiki/List-of-useful-website-for-Red-Team)
 - [Become red teamer!](https://github.com/ties2/Red-Team/wiki/Become-red-teamer!)
 - [Red Team Topics](https://github.com/ties2/Red-Team/wiki)
+- [PowerShell Commands for Red Team Operations](https://github.com/ties2/Red-Team/blob/main/RedTeam-PowerShell.md)
 
 
 For becoming Red Teamer
